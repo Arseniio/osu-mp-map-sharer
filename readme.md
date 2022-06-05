@@ -3,12 +3,12 @@ Programm for exchange an unranked beatmaps without any exproting map and use onl
 # How to launch it?
 Programm currently can work only with lan,but if pass to python file ip and port of hosted server it will work
 # How to build it?
-You need to supply ftp server,user and password and then build it to exe file
+You need to supply ftp server,user and password in python file and then maybe build it into exe file
 
 ## TODO
 - [ ] Upload server to some hosting
 - [ ] Move out from ftp,because it slooooow
 - [ ] Fix server crashes on disconnect
 - [ ] Fix downloaded map name
-- [ ] Add more functionality
+- [ ] Add manual providing room indentifier 
 - [ ] Add auto-open downloaded map
