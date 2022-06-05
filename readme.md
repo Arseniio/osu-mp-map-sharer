@@ -11,3 +11,4 @@ You need to supply ftp server,user and password and then build it to exe file
 - [ ] Fix server crashes on disconnect
 - [ ] Fix downloaded map name
 - [ ] Add more functionality
+- [ ] Add auto-open downloaded map
